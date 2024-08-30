@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+
+}
+img{
+    width: 250px;
+    margin: auto;
+
+}
+ 
+
+
+div {
+    flex-wrap: wrap;
+    align-items: center;
+
+}
